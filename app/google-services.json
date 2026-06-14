@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667300823193",
+    "project_id": "rotinaplus-56468",
+    "storage_bucket": "rotinaplus-56468.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667300823193:android:e1b66fa7d3b1d973aeb808",
+        "android_client_info": {
+          "package_name": "com.joaomarcos.rotinaplusv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfbW5AproLW1Y2Z80UsFuZ3ccRq6nETHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
