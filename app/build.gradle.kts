@@ -6,12 +6,12 @@ plugins {
 
 android {
     namespace = "com.joaomarcos.rotinaplusv2"
-    compileSdk = 35
+    compileSdk = 37
 
     defaultConfig {
         applicationId = "com.joaomarcos.rotinaplusv2"
         minSdk = 24
-        targetSdk = 35
+        targetSdk = 37
         versionCode = 1
         versionName = "1.0"
 
@@ -47,4 +47,6 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
     implementation(platform(libs.firebase.bom))
+    implementation(platform(libs.firebase.firestore))
+    implementation(platform(libs.firebase.auth))
 }

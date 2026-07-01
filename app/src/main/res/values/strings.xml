@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">RotinaPlusV2</string>
+    <string name="app_logo_description">Logo do app rotina plus, é o nome escrito em pixel art com as letras curvadas.</string>
+    <string name="email">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="login">Entrar</string>
+    <string name="registry_anchor"><u>Registrar-se</u></string>
+    <string name="companie_registry_anchor"><u>Registrar Empresa</u></string>
+    <string name="welcome_message_registry">Que bom que vai entrar para o Rotina Plus! :)</string>
+    <string name="contact_message_registry">Entre em contato com o seu gestor/chefe e peça para que mande um e-mail para: joaomarcos.freitasouza@gmail.com. </string>
+    <string name="directions_message_registry">Deve enviar seu nome, e-mail, senha que vai ser usada, cnpj da empresa, nome do gestor/chefe e e-mail do gestor/chefe, assim como uma apresentação breve indicando o motivo do contato e identificando-se.</string>
+    <string name="welcome_message_companie_registry">Que bom que sua empresa vai entrar para o Rotina Plus! :)</string>
+    <string name="contact_message_companie_registry">Entre em contato com o e-mail: joaomarcos.freitasouza@gmail.com. </string>
+    <string name="directions_message_companie_registry">Deve enviar o nome da empresa, cnpj da empresa, nome do gestor/chefe e e-mail do gestor/chefe, assim como uma apresentação breve indicando o motivo do contato e identificando-se.</string>
+    <string name="arrow_back_description">Icone de seta para esquerda, indicando um caminho para a página anterior.</string>
 </resources>
